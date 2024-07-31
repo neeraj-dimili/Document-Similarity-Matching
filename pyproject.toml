@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "pdf-comparator"
+version = "0.1.0"
+description = ""
+authors = ["anony_byte <haibhargav111@gmail.com>"]
+readme = "README.md"
+packages = [{include = "pdf_comparator"}]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+pypdf2 = "^3.0.1"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
