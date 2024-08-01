@@ -1,5 +1,9 @@
  Overview
 
+> [!IMPORTANT] 
+> Please create the structure document_similarity/test and add your pdfs to find the similarity.
+> Please create the structure document_similarity/train to add the pdfs to train the code.
+
 This project is a prototype system for matching and categorizing invoices based on content and structural similarity.
 
 
